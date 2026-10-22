@@ -1,0 +1,20 @@
+# Runtime files
+MOUSE_RUNNING.lock
+STOP_MOUSE.flag
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local tooling and OS files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
